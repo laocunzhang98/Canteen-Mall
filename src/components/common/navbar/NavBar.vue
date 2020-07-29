@@ -13,7 +13,9 @@
 </template>
 
 <script>
-export default {};
+export default {
+  name :'NavBar'
+};
 </script>
 
 <style>
@@ -28,5 +30,6 @@ export default {};
 }
 .center {
   flex: 1;
+  text-align: center;
 }
 </style>
