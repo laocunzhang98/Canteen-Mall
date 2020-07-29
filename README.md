@@ -1,4 +1,4 @@
-# supermall
+# Canteen Mall
 
 ## Project setup
 ```
