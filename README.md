@@ -14,7 +14,7 @@
  - 对普通滚动的优化
 
 ### 克隆本项目代码：
-git clone https://github.com/constown/supermall.git
+git clone https://github.com/laocunzhang98/Canteen-Mall.git
 ### 安装项目依赖
 npm install
 ### 本地预览
